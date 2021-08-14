@@ -1,7 +1,7 @@
 Hello  👋, Dhanalakshmi here!
 Profile: QA Engineer
 
-This Repository has the data structure problems which have been solved by using Two Pointers ,Sliding window , Linked List, Queues.
+This Repository has the data structure problems which have been solved by using Two Pointers ,Sliding window , Linked List, Stack.
 
 Pre requisite:
 Java 
